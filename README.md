@@ -14,4 +14,4 @@ You’ll make the following updates to the provided Python file for this assignm
 
 4. Test the PyChain Ledger by Storing Records.
 
-Screen Shot 2022-04-21 at 9.21.55 PM
+<img width="1440" alt="Screen Shot 2022-04-21 at 9 23 47 PM" src="https://user-images.githubusercontent.com/93739831/164579164-3942d55b-0da5-4e02-92a1-7a446f29e17c.png">
